@@ -24,6 +24,8 @@ program CitiBike.  The data that will be using in the proposal has many key area
 Des Moines Iowa has a different demographic for both population and accessability of bike riders. than New York.   Given the success 
 of the CitiBike share program in New York, it provides great insight from the available data set using Tableau as a presentation tool.
 
+#### NYC Citi Bike Dashboard
+
 ![](https://github.com/crashdean/bike_sharing/blob/main/resources/NYC_Citibike_Dashboard.jpg)
 
 
@@ -32,8 +34,8 @@ of riders for the data set show over 2 million.   This would indicate a strong u
 start locations for ride share.   The larger the circle, and the darker the blue color, the higher ride share staion use.
 
 
-
-
-
+#### Top Start Locations
 
 ![](https://github.com/crashdean/bike_sharing/blob/main/resources/top_start_locations.png)
+
+
