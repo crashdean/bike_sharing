@@ -1,6 +1,6 @@
 ## Bikesharing NYC CitiBike data
 
-NYC CitiBike Share story.[https://public.tableau.com/app/profile/michael.dean.larsson/viz/Book2_16683985234930/NYCCitiBikeAnalysisChallenge?publish=yes]
+[NYC CitiBike Share story.](https://public.tableau.com/app/profile/michael.dean.larsson/viz/Book2_16683985234930/NYCCitiBikeAnalysisChallenge?publish=yes)
 
 
 ### Overview of Project
