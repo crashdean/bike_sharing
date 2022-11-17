@@ -58,6 +58,13 @@ Here we can see that most rides end close to were they start.
 During the month of August, the peak hours of use for the bikes is 7 - 9 am and 4 - 6 pm.   This is important to understand for having the most
 bikes available for use.
 
+#### Bike Utilization
 
-![](https://github.com/crashdean/bike_sharing/blob/main/resources/august_peak_hours.png)
+![](https://github.com/crashdean/bike_sharing/blob/main/resources/bike_utilization.png)
+
+This image shows the the use of all bikes with there ID numbers.   This visual is important to gather a full specrum picture of the number of bikes
+with comparable high and low use.   Along with other images, the need to move higher use bikes out of an area and switch will lower use bikes would 
+prolong the life span of all bikes.
+
+![](https://github.com/crashdean/bike_sharing/blob/main/resources/bike_utilization.png)
 
