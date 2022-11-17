@@ -34,4 +34,6 @@ start locations for ride share.   The larger the circle, and the darker the blue
 
 
 
+
+
 ![](https://github.com/crashdean/bike_sharing/blob/main/resources/top_start_locations.png)
