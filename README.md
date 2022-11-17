@@ -34,8 +34,12 @@ of riders for the data set show over 2 million.   This would indicate a strong u
 start locations for ride share.   The larger the circle, and the darker the blue color, the higher ride share staion use.
 
 
-#### Top Start Locations
+#### Top Start Locations 
 
 ![](https://github.com/crashdean/bike_sharing/blob/main/resources/top_start_locations_high.png)
+
+
+![](https://github.com/crashdean/bike_sharing/blob/main/resources/top_start_locations_low.png)
+
 
 
