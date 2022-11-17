@@ -1,5 +1,7 @@
 ## Bikesharing NYC CitiBike data
 
+[NYC CitiBike Share story.]([https://www.google.com](https://public.tableau.com/app/profile/michael.dean.larsson/viz/Book2_16683985234930/NYCCitiBikeAnalysisChallenge?publish=yes))
+
 
 ### Overview of Project
 
@@ -72,6 +74,10 @@ prolong the life span of all bikes.
 
 This image shows the distribution of bikes according to their total usage.   For the purpose of bike maintenance, this visulization shows smaller lighter
 squares for bike with less use.   To schedule repairs and maintenance, this image along with peak hours image, allows for scheduling of maintenance.
+
+### Summary
+
+  In summary, the Citibie share program seems to offer 
 
 
 
