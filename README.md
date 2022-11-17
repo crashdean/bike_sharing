@@ -66,5 +66,12 @@ This image shows the the use of all bikes with there ID numbers.   This visual i
 with comparable high and low use.   Along with other images, the need to move higher use bikes out of an area and switch will lower use bikes would 
 prolong the life span of all bikes.
 
-![](https://github.com/crashdean/bike_sharing/blob/main/resources/bike_utilization.png)
+#### Bike Repairs
+
+![](https://github.com/crashdean/bike_sharing/blob/main/resources/bike_repairs.png)
+
+This image shows the distribution of bikes according to their total usage.   For the purpose of bike maintenance, this visulization shows smaller lighter
+squares for bike with less use.   To schedule repairs and maintenance, this image along with peak hours image, allows for scheduling of maintenance.
+
+
 
