@@ -21,7 +21,13 @@ program CitiBike.  The data that will be using in the proposal has many key area
 
 ### Results
 
-Des Moines Iowa has a different demographic and citi layout than New York.   But given the success of the CitiBike program, it provides great
-insight using Tableau.
+Des Moines Iowa has a different demographic for both population and accessability of bike riders. than New York.   Given the success 
+of the CitiBike share program in New York, it provides great insight from the available data set using Tableau as a presentation tool.
+
+![](https://github.com/crashdean/bike_sharing/blob/main/resources/NYC_Citibike_Dashboard.jpg)
+
+
+Here is a Dashboard of the 
+
 
 ![](https://github.com/crashdean/bike_sharing/blob/main/resources/NYC_Citibike_Dashboard.jpg)
