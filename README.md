@@ -38,8 +38,10 @@ start locations for ride share.   The larger the circle, and the darker the blue
 
 ![](https://github.com/crashdean/bike_sharing/blob/main/resources/top_start_locations_high.png)
 
+This image shows one station with high usage.   This is were the most bikes would be needed.
+
 
 ![](https://github.com/crashdean/bike_sharing/blob/main/resources/top_start_locations_low.png)
 
-
+This image shows one station with low usage.   This is where less bike would be needed.
 
