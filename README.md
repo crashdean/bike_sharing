@@ -23,3 +23,6 @@ program CitiBike.  The data that will be using in the proposal has many key area
 
 Des Moines Iowa has a different demographic and citi layout than New York.   But given the success of the CitiBike program, it provides great
 insight using Tableau.
+
+
+![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/Distict_summary_Test.png)
