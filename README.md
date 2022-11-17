@@ -30,4 +30,4 @@ of the CitiBike share program in New York, it provides great insight from the av
 Here is a Dashboard of the 
 
 
-![](https://github.com/crashdean/bike_sharing/blob/main/resources/NYC_Citibike_Dashboard.jpg)
+![](https://github.com/crashdean/bike_sharing/blob/main/resources/top_start_locations.png)
