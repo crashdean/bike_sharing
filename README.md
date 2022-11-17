@@ -45,3 +45,10 @@ This image shows one station with high usage.   This is were the most bikes woul
 
 This image shows one station with low usage.   This is where less bike would be needed.
 
+#### Top Ending Locations
+
+![](https://github.com/crashdean/bike_sharing/blob/main/resources/top_ending_locations.png)
+
+Here we can see that most rides end close to were they start.
+
+
