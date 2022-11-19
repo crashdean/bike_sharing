@@ -89,10 +89,9 @@ number of users.
 
 ### Summary
 
-  In summary, the Citibike share program in New York seems to serve a large number of riders per day.   With most of the riders being maale and on weekdays.
-  The large number of bike ID's in servecs show that there are a need for such services.   To translate this data to the city of Des Moines Iowa, we would 
-  need to tetermine things like average distance of housing to most jobs in the city.   We would need to find suitable locations for the bikes to be place
-  near exsisting public transportation routes.
+  In summary, the Citibike share program in New York serve a large number of riders per day.   With most of the riders being male and on weekdays, we still
+  see an overall high customer usage.  The large number of bike ID's in service does show that there is a need for such services.   To translate this data 
+  to the city of Des Moines Iowa, we would need to supply more data analysis.   One of this would be the average distance of housing to most jobs in the city.
+  Another would be suitable locations for bike placement along these routes and safe bike route for customers.
 
-user_trips_by_gender_by_weekday.png
 
