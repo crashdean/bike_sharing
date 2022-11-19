@@ -79,9 +79,17 @@ squares for bike with less use.   To schedule repairs and maintenance, this imag
 
 ![](https://github.com/crashdean/bike_sharing/blob/main/resources/trips_by_gender_weekend_per_hour.png)
 
+#### Trips by Gender by Weekday
+
+![](https://github.com/crashdean/bike_sharing/blob/main/resources/user_trips_by_gender_by_weekday.png)
+
+#### Trips by Gender by Weekend
+
+![](https://github.com/crashdean/bike_sharing/blob/main/resources/user_trips_by_gender_by_weekend.png)
+
 ### Summary
 
   In summary, the Citibie share program seems to offer 
 
-
+user_trips_by_gender_by_weekday.png
 
