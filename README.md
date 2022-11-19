@@ -77,11 +77,11 @@ squares for bike with less use.   To schedule repairs and maintenance, this imag
 
 #### Trips per Weekend per Gender
 
-![](https://github.com/crashdean/bike_sharing/blob/main/resources/trips_by_gender_weekend_per_hour.png)
-
-#### Trips by Gender by Weekday
-
 ![](https://github.com/crashdean/bike_sharing/blob/main/resources/user_trips_by_gender_by_weekday.png)
+
+This image shows the number of subscribers verses the customers who are not subscribers.   The majority of users are of male gender in early week days of 
+Monday and Tuesday and Thursday and Friday.   The use for subscribers is slightly less for weekends.   Female subscribers have similar usage but with less
+number of users.
 
 #### Trips by Gender by Weekend
 
@@ -89,7 +89,10 @@ squares for bike with less use.   To schedule repairs and maintenance, this imag
 
 ### Summary
 
-  In summary, the Citibie share program seems to offer 
+  In summary, the Citibike share program in New York seems to serve a large number of riders per day.   With most of the riders being maale and on weekdays.
+  The large number of bike ID's in servecs show that there are a need for such services.   To translate this data to the city of Des Moines Iowa, we would 
+  need to tetermine things like average distance of housing to most jobs in the city.   We would need to find suitable locations for the bikes to be place
+  near exsisting public transportation routes.
 
 user_trips_by_gender_by_weekday.png
 
