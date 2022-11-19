@@ -40,25 +40,28 @@ start locations for ride share.   The larger the circle, and the darker the blue
 
 ![](https://github.com/crashdean/bike_sharing/blob/main/resources/top_start_locations_high.png)
 
-This image shows one station with high usage.   This is were the most bikes would be needed.
+This image shows one station with high usage.   This is were the most bikes would be needed.   There are a large number of stations with more
+than 10,000 riders.   The stations are also mostly distributed in the lower portion of Manhattan. 
 
 
 ![](https://github.com/crashdean/bike_sharing/blob/main/resources/top_start_locations_low.png)
 
-This image shows one station with low usage.   This is where less bike would be needed.
+This image shows Brooklyn with less usage than Manhattan.  The image shows one station with around 6000 riders. This is still a good numbers of riders
+but shows that it is important to distribute the stations were then most riders are starting from.
 
 #### Top Ending Locations
 
 ![](https://github.com/crashdean/bike_sharing/blob/main/resources/top_ending_locations.png)
 
-Here we can see that most rides end close to were they start. 
+This image shows that the ststions with the highest number of stop locations is near were we would see the riders living, working, or transfering to
+additional forms of transportation such as the subway.
 
 #### August Peak Hours
 
 ![](https://github.com/crashdean/bike_sharing/blob/main/resources/august_peak_hours.png)
 
 During the month of August, the peak hours of use for the bikes is 7 - 9 am and 4 - 6 pm.   This is important to understand for having the most
-bikes available for use.
+bikes available for use.   The data seems to coorelate with standard working hours also.
 
 #### Bike Utilization
 
@@ -90,8 +93,8 @@ number of users.
 ### Summary
 
   In summary, the Citibike share program in New York serve a large number of riders per day.   With most of the riders being male and on weekdays, we still
-  see an overall high customer usage.  The large number of bike ID's in service does show that there is a need for such services.   To translate this data 
-  to the city of Des Moines Iowa, we would need to supply more data analysis.   One of this would be the average distance of housing to most jobs in the city.
-  Another would be suitable locations for bike placement along these routes and safe bike route for customers.
+  see an overall high customer usage for both genders all week long.  The large number of bike ID's in service does show that there is a need for such services.
+  To translate this data to the city of Des Moines Iowa, we would need to supply more data analysis.   One of this would be the average distance of housing to
+  most jobs in the city.  Another would be suitable locations for bike placement along these routes and safe bike route for customers.
 
 
