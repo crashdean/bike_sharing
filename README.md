@@ -75,7 +75,9 @@ prolong the life span of all bikes.
 This image shows the distribution of bikes according to their total usage.   For the purpose of bike maintenance, this visulization shows smaller lighter
 squares for bike with less use.   To schedule repairs and maintenance, this image along with peak hours image, allows for scheduling of maintenance.
 
-![](https://github.com/crashdean/bike_sharing/blob/main/resources/bike_repairs.png)
+#### Trips per Weekend per Gender
+
+![](https://github.com/crashdean/bike_sharing/blob/main/resources/trips_by_gender_weekend_per_hour.png)
 
 ### Summary
 
